@@ -1,2 +1,2 @@
 # santanderfullstack-dio-desafiogithub
-Boodcamp FullStack Santander/DIO
+Bootcamp FullStack Santander/DIO
